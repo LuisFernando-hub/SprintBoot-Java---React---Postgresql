@@ -1,4 +1,4 @@
-# SprintBoot-Java---React---Postgresql
+# SprintBoot-Java-React-Postgresql
 Creating Application for learning java and react js with sprint boot
 
 # FRONT END IN REACT TSX GET STARTED
